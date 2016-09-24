@@ -1,3 +1,7 @@
+//Runs the Main.main() method
+window.onload = function () {
+    Main.main();
+};
 var Main = (function () {
     function Main() {
     }

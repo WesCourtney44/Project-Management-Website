@@ -1,11 +1,6 @@
-﻿//Adds the navigation bar when everything is ready.
-window.onload = function () {
-    NavigationBar.populateNavBar();
-};
-
+﻿
 class NavigationBar {
-    public static populateNavBar(): void {
-        let target: HTMLElement = document.getElementById("navigation");
+    public static populateNavBar(target: HTMLElement): void {
         target.appendChild(new Link("Home", "Index.html").getLi());
         target.appendChild(new Link("History", "TaborHistory.html").getLi());
         target.appendChild(new Link("Calendar", "Calendar.html").getLi());
