@@ -5,7 +5,8 @@ var Index = (function () {
     function Index() {
     }
     Index.main = function () {
-        NavigationBar.populateNavBar(document.getElementById("navigation"));
+        Populate.Header(document.getElementById("header"));
+        Populate.Footer(document.getElementById("footer"));
     };
     return Index;
 }());

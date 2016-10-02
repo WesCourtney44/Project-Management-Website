@@ -4,6 +4,7 @@
 
 class WeeCare {
     public static main(): void {
-        NavigationBar.populateNavBar(document.getElementById("navigation"));
+        Populate.Header(document.getElementById("header"));
+        Populate.Footer(document.getElementById("footer"));
     }
 }

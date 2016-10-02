@@ -5,9 +5,10 @@ var Staff = (function () {
     function Staff() {
     }
     Staff.main = function () {
-        NavigationBar.populateNavBar(document.getElementById("navigation"));
+        Populate.Header(document.getElementById("header"));
         this.populateStaff();
         this.appendStaffToElement(document.getElementById("container"));
+        Populate.Footer(document.getElementById("footer"));
     };
     //Add staff members objects to an array
     Staff.populateStaff = function () {

@@ -5,7 +5,8 @@ var WeeCare = (function () {
     function WeeCare() {
     }
     WeeCare.main = function () {
-        NavigationBar.populateNavBar(document.getElementById("navigation"));
+        Populate.Header(document.getElementById("header"));
+        Populate.Footer(document.getElementById("footer"));
     };
     return WeeCare;
 }());

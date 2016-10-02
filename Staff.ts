@@ -7,9 +7,10 @@ class Staff {
     static staffMemberList: Array<StaffMember> = new Array<StaffMember>();
 
     public static main(): void {
-        NavigationBar.populateNavBar(document.getElementById("navigation"));
+        Populate.Header(document.getElementById("header"));
         this.populateStaff();
         this.appendStaffToElement(document.getElementById("container"));
+        Populate.Footer(document.getElementById("footer"));
     }
 
     //Add staff members objects to an array
