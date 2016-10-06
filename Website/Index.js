@@ -1,13 +1,12 @@
 window.onload = function () {
-    WeeCare.main();
+    Index.main();
 };
-var WeeCare = (function () {
-    function WeeCare() {
+var Index = (function () {
+    function Index() {
     }
-    WeeCare.main = function () {
+    Index.main = function () {
         Populate.Header(document.getElementById("header"));
         Populate.Footer(document.getElementById("footer"));
     };
-    return WeeCare;
+    return Index;
 }());
-//# sourceMappingURL=WeeCare.js.map

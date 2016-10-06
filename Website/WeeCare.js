@@ -1,13 +1,12 @@
 window.onload = function () {
-    Calendar.main();
+    WeeCare.main();
 };
-var Calendar = (function () {
-    function Calendar() {
+var WeeCare = (function () {
+    function WeeCare() {
     }
-    Calendar.main = function () {
+    WeeCare.main = function () {
         Populate.Header(document.getElementById("header"));
         Populate.Footer(document.getElementById("footer"));
     };
-    return Calendar;
+    return WeeCare;
 }());
-//# sourceMappingURL=Calendar.js.map

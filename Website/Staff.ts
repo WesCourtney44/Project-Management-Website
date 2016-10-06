@@ -20,7 +20,7 @@ class Staff {
         staff.push(new StaffMember("Pastor", "Andy", "Traister", "Commissioned Ruling Elder"));
         staff.push(new StaffMember("", "Susan", "Utz", "Music Director"));
         staff.push(new StaffMember("", "Rob", "Magallon", "Praise Music Leader"));
-        staff.push(new StaffMember("", "Megan", "Broadus", "Wee Care Director"));
+        staff.push(new StaffMember("", "Megan", "Broadus", "Wee Care Directorrr"));
     }
 
     //generates html elements for each staff member and adds them to the specified element

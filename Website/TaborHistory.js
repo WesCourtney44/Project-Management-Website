@@ -1,13 +1,12 @@
 window.onload = function () {
-    Index.main();
+    TaborHistory.main();
 };
-var Index = (function () {
-    function Index() {
+var TaborHistory = (function () {
+    function TaborHistory() {
     }
-    Index.main = function () {
+    TaborHistory.main = function () {
         Populate.Header(document.getElementById("header"));
         Populate.Footer(document.getElementById("footer"));
     };
-    return Index;
+    return TaborHistory;
 }());
-//# sourceMappingURL=Index.js.map
