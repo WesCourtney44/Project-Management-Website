@@ -17,7 +17,7 @@ var Staff = (function () {
         staff.push(new StaffMember("Pastor", "Andy", "Traister", "Commissioned Ruling Elder"));
         staff.push(new StaffMember("", "Susan", "Utz", "Music Director"));
         staff.push(new StaffMember("", "Rob", "Magallon", "Praise Music Leader"));
-        staff.push(new StaffMember("", "Megan", "Broadus", "Wee Care Directorrr"));
+        staff.push(new StaffMember("", "Megan", "Broadus", "Wee Care Director"));
     };
     //generates html elements for each staff member and adds them to the specified element
     Staff.appendStaffToElement = function (target) {
