@@ -1,0 +1,57 @@
+[CurrentMonster]
+name=Marge
+
+[]
+Cards
+	MailRoom
+		MaxLevel=1
+		CurrentLevel=1
+		KeyCardsGiven=0
+
+[Marge]
+Cards
+	LunchRoom
+		MaxLevel=30
+		CurrentLevel=1
+		KeyCardsGiven=0
+
+[Needleman]
+Cards
+	MailRoom
+		MaxLevel=5
+		CurrentLevel=5
+		KeyCardsGiven=1
+	DoorTransport
+		MaxLevel=1
+		CurrentLevel=1
+		KeyCardsGiven=0
+TimePlaying=130907
+
+[Smitty]
+Cards
+	MailRoom
+		MaxLevel=1
+		CurrentLevel=1
+		KeyCardsGiven=0
+
+[Bile]
+Cards
+	MailRoom
+		MaxLevel=1
+		CurrentLevel=1
+		KeyCardsGiven=0
+
+[Figus]
+Cards
+	MailRoom
+		MaxLevel=1
+		CurrentLevel=1
+		KeyCardsGiven=0
+
+[Nadine]
+Cards
+	MailRoom
+		MaxLevel=1
+		CurrentLevel=1
+		KeyCardsGiven=0
+

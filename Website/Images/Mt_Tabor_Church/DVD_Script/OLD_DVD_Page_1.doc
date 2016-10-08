@@ -1,0 +1,136 @@
+{\rtf1 \mac \ansicpg10000 \nisusversion30301 \deff0 {\fonttbl {\f0 \froman \fcharset77 Times-Roman{\*\falt Times};}{\f1 \froman \fcharset77 Times-Bold{\*\falt Times};}{\f2 \fswiss \fcharset77 Arial-BoldMT{\*\falt Arial};}{\f3 \fswiss \fcharset77 ArialMT{\*\falt Arial};}{\f4 \fnil \fcharset77 Tahoma-Bold{\*\falt Tahoma};}{\f5 \fswiss \fcharset77 Tahoma;}}{\colortbl ;\red0 \green0 \blue0 ;}{\*\nisustoctable {\nisustoc \tcf68 {\nisustocname Default TOC}{\*\nisustoctabrep  }{\*\nisustocretrep  }{\nisustoclevelstyle TOC 1}{\nisustoclevelstyle TOC 2}{\nisustoclevelstyle TOC 3}
+{\nisustoclevelstyle TOC 4}{\nisustoclevelstyle TOC 5}{\nisustoclevelstyle TOC 6}{\nisustoclevelstyle TOC 7}{\nisustoclevelstyle TOC 8}{\nisustoclevelstyle TOC 9}}\nisusactivetoc68 }
+{\*\nisusxetable {\nisusxe \xef68 {\nisusxename Default Index}{\nisusxeheaderstyle Index Heading}{\nisusxelevelstyle Index 1}{\nisusxelevelstyle Index 2}{\nisusxelevelstyle Index 3}
+{\nisusxelevelstyle Index 4}{\nisusxelevelstyle Index 5}{\nisusxelevelstyle Index 6}{\nisusxelevelstyle Index 7}{\nisusxelevelstyle Index 8}{\nisusxelevelstyle Index 9}{\*\fldinst {INDEX \\f D \\e "\tab " \\k ". " \\l ", " \\g \endash }}}
+\nisusactivexe68 }{\stylesheet {\s186 \nisusnoteplacement0 \nisusnotespanheight1300 \nisusnotespanlines5 \nisusnotedocrefstyle187 \nisusnoterefstyle188 \nisusnotegutterh60 {\*\nisusnotedefaulttext .\u160 \'ca}
+\nisusnotedivalign2 \nisusnotedivpercent25 \nisusnotedivoverpercent75 {\*\nisusnotedivstyle \nisusbrdredge \brdrs \brdrw20 \brdrcf1 }\sbasedon189 \f0 \fs24 \AppleTypeServices \ql \nowidctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 Footnote;}
+{\*\cs187 \AppleTypeServices \super Note Reference;}{\*\cs188 \sbasedon187 \AppleTypeServices \nosupersub Note Reference in Note;}{\s189 \snext189 \f0 \fs24 \AppleTypeServices \ql \widctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 Normal;}
+{\s190 \nisusnoteplacement2 \nisusnotespanheight1300 \nisusnotespanlines5 \nisusnotedocrefstyle187 \nisusnoterefstyle188 \nisusnotegutterh60 {\*\nisusnotedefaulttext .\u160 \'ca}\nisusnotedivalign2 \nisusnotedivpercent25 \nisusnotedivoverpercent75 {\*\nisusnotedivstyle \nisusbrdredge \brdrs \brdrw20 \brdrcf1 }
+\sbasedon189 \f0 \fs24 \AppleTypeServices \ql \widctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 Endnote;}{\s191 \snext189 \sbasedon189 \f4 \fs28 \AppleTypeServices \b \ql \widctlpar \nisuskeep0 \nisuskeepn0 \sb120 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 \tcf68 \tcl1 Heading 1;}
+{\s192 \snext189 \sbasedon191 \f4 \fs26 \AppleTypeServices \b \ql \widctlpar \nisuskeep0 \nisuskeepn0 \sb120 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 \tcf68 \tcl2 Heading 2;}
+{\s193 \snext189 \sbasedon192 \f4 \fs26 \AppleTypeServices \b \i \ql \widctlpar \nisuskeep0 \nisuskeepn0 \sb120 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 \tcf68 \tcl3 Heading 3;}
+{\s194 \snext194 \sbasedon189 \f0 \fs24 \AppleTypeServices \ql \widctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 Header;}
+{\s195 \snext189 \sbasedon189 \f4 \fs28 \AppleTypeServices \b \qc \widctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 Title;}
+{\s196 \snext196 \sbasedon189 \f0 \fs24 \AppleTypeServices \ql \widctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 Footer;}
+{\s197 \snext197 \sbasedon189 \f0 \fs24 \AppleTypeServices \ql \widctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li1080 \lin1080 \fi0 \ri1020 \rin1020 Block Quote;}
+{\*\cs198 \AppleTypeServices \i Emphatic;}{\s199 \snext189 \sbasedon193 \f5 \fs26 \AppleTypeServices \b0 \i0 \ql \widctlpar \nisuskeep0 \nisuskeepn0 \sb120 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 \tcf68 \tcl4 Heading 4;}
+{\s200 \snext189 \sbasedon199 \f5 \fs26 \AppleTypeServices \b0 \i0 \ul \ql \widctlpar \nisuskeep0 \nisuskeepn0 \sb120 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 \tcf68 \tcl5 Heading 5;}
+{\s201 \snext189 \sbasedon200 \f5 \fs26 \AppleTypeServices \b0 \i \ul \ql \widctlpar \nisuskeep0 \nisuskeepn0 \sb120 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 \tcf68 \tcl6 Heading 6;}
+{\*\cs202 \AppleTypeServices \b Strong;}}{\*\listtable {\list \listhybrid {\listlevel \levelnfc23 \levelnfcn23 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'01\u8226 ?;}
+{\levelnumbers ;}\ltrpar \pardirnatural \li648 \lin648 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc23 \levelnfcn23 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'01\u8226 ?;}
+{\levelnumbers ;}\ltrpar \pardirnatural \li1008 \lin1008 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc23 \levelnfcn23 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'01\u8226 ?;}
+{\levelnumbers ;}\ltrpar \pardirnatural \li1368 \lin1368 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc23 \levelnfcn23 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'01\u8226 ?;}
+{\levelnumbers ;}\ltrpar \pardirnatural \li1728 \lin1728 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc23 \levelnfcn23 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'01\u8226 ?;}
+{\levelnumbers ;}\ltrpar \pardirnatural \li2088 \lin2088 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc23 \levelnfcn23 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'01\u8226 ?;}
+{\levelnumbers ;}\ltrpar \pardirnatural \li2448 \lin2448 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc23 \levelnfcn23 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'01\u8226 ?;}
+{\levelnumbers ;}\ltrpar \pardirnatural \li2808 \lin2808 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc23 \levelnfcn23 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'01\u8226 ?;}
+{\levelnumbers ;}\ltrpar \pardirnatural \li3168 \lin3168 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc23 \levelnfcn23 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'01\u8226 ?;}
+{\levelnumbers ;}\ltrpar \pardirnatural \li3528 \lin3528 \fi-360 \ri0 \rin0 }{\listname ;}\listid585640194 \nisuslistcontnum0 {\*\liststylename Bullet List;}}{\list \listhybrid {\listlevel \levelnfc4 \levelnfcn4 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'00.;}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li648 \lin648 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'01.;}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li1008 \lin1008 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc2 \levelnfcn2 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'02.;}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li1368 \lin1368 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc4 \levelnfcn4 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'03(\'03);}
+{\levelnumbers \'02;}\ltrpar \pardirnatural \li1728 \lin1728 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'03(\'04);}
+{\levelnumbers \'02;}\ltrpar \pardirnatural \li2088 \lin2088 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc2 \levelnfcn2 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'03(\'05);}
+{\levelnumbers \'02;}\ltrpar \pardirnatural \li2448 \lin2448 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc4 \levelnfcn4 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'06);}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li2808 \lin2808 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'07);}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li3168 \lin3168 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc2 \levelnfcn2 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'08);}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li3528 \lin3528 \fi-360 \ri0 \rin0 }{\listname ;}\listid937186357 \nisuslistcontnum0 {\*\liststylename Lettered List;}}{\list \listhybrid {\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'00.;}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li576 \lin576 \fi-576 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'04\'00.\'01.;}
+{\levelnumbers \'01\'03;}\ltrpar \pardirnatural \li796 \lin796 \fi-796 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'06\'00.\'01.\'02.;}
+{\levelnumbers \'01\'03\'05;}\ltrpar \pardirnatural \li1016 \lin1016 \fi-1016 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'08\'00.\'01.\'02.\'03.;}
+{\levelnumbers \'01\'03\'05\'07;}\ltrpar \pardirnatural \li1236 \lin1236 \fi-1236 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'0a\'00.\'01.\'02.\'03.\'04.;}
+{\levelnumbers \'01\'03\'05\'07\'09;}\ltrpar \pardirnatural \li1456 \lin1456 \fi-1456 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'0c\'00.\'01.\'02.\'03.\'04.\'05.;}
+{\levelnumbers \'01\'03\'05\'07\'09\'0b;}\ltrpar \pardirnatural \li1676 \lin1676 \fi-1676 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}
+{\levelnumbers \'01\'03\'05\'07\'09\'0b\'0d;}\ltrpar \pardirnatural \li1896 \lin1896 \fi-1896 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}
+{\levelnumbers \'01\'03\'05\'07\'09\'0b\'0d\'0f;}\ltrpar \pardirnatural \li2116 \lin2116 \fi-2116 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}
+{\levelnumbers \'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\ltrpar \pardirnatural \li2336 \lin2336 \fi-2336 \ri0 \rin0 }{\listname ;}\listid1646035001 \nisuslistcontnum1 {\*\liststylename Headings;}}
+{\list \listhybrid {\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'00.;}{\levelnumbers \'01;}
+\ltrpar \pardirnatural \li720 \lin720 \fi-432 \ri0 \rin0 }{\listlevel \levelnfc4 \levelnfcn4 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'01.;}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li1080 \lin1080 \fi-431 \ri0 \rin0 }{\listlevel \levelnfc2 \levelnfcn2 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'02.;}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li1440 \lin1440 \fi-431 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'03(\'03);}
+{\levelnumbers \'02;}\ltrpar \pardirnatural \li1800 \lin1800 \fi-431 \ri0 \rin0 }{\listlevel \levelnfc4 \levelnfcn4 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'03(\'04);}
+{\levelnumbers \'02;}\ltrpar \pardirnatural \li2160 \lin2160 \fi-431 \ri0 \rin0 }{\listlevel \levelnfc2 \levelnfcn2 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'03(\'05);}
+{\levelnumbers \'02;}\ltrpar \pardirnatural \li2520 \lin2520 \fi-431 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'06);}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li2880 \lin2880 \fi-431 \ri0 \rin0 }{\listlevel \levelnfc4 \levelnfcn4 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'07);}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li3240 \lin3240 \fi-432 \ri0 \rin0 }{\listlevel \levelnfc2 \levelnfcn2 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'08);}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li3600 \lin3600 \fi-432 \ri0 \rin0 }{\listname ;}\listid1025921153 \nisuslistcontnum0 {\*\liststylename Number List;}}{\list \listhybrid {\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'00.;}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li648 \lin648 \fi-648 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'04\'00.\'01.;}
+{\levelnumbers \'01\'03;}\ltrpar \pardirnatural \li868 \lin868 \fi-868 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'06\'00.\'01.\'02.;}
+{\levelnumbers \'01\'03\'05;}\ltrpar \pardirnatural \li1088 \lin1088 \fi-1088 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'08\'00.\'01.\'02.\'03.;}
+{\levelnumbers \'01\'03\'05\'07;}\ltrpar \pardirnatural \li1308 \lin1308 \fi-1308 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'0a\'00.\'01.\'02.\'03.\'04.;}
+{\levelnumbers \'01\'03\'05\'07\'09;}\ltrpar \pardirnatural \li1528 \lin1528 \fi-1528 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'0c\'00.\'01.\'02.\'03.\'04.\'05.;}
+{\levelnumbers \'01\'03\'05\'07\'09\'0b;}\ltrpar \pardirnatural \li1748 \lin1748 \fi-1748 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}
+{\levelnumbers \'01\'03\'05\'07\'09\'0b\'0d;}\ltrpar \pardirnatural \li1968 \lin1968 \fi-1968 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}
+{\levelnumbers \'01\'03\'05\'07\'09\'0b\'0d\'0f;}\ltrpar \pardirnatural \li2188 \lin2188 \fi-2188 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}
+{\levelnumbers \'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\ltrpar \pardirnatural \li2408 \lin2408 \fi-2408 \ri0 \rin0 }{\listname ;}\listid510616708 \nisuslistcontnum0 {\*\liststylename Tiered List;}}
+{\list \listhybrid {\listlevel \levelnfc1 \levelnfcn1 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'00.;}{\levelnumbers \'01;}
+\ltrpar \pardirnatural \li360 \lin360 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc3 \levelnfcn3 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'01.;}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li720 \lin720 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'02.;}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li1080 \lin1080 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc4 \levelnfcn4 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'02\'03);}
+{\levelnumbers \'01;}\ltrpar \pardirnatural \li1440 \lin1440 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc0 \levelnfcn0 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'03(\'04);}
+{\levelnumbers \'02;}\ltrpar \pardirnatural \li1800 \lin1800 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc4 \levelnfcn4 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'03(\'05);}
+{\levelnumbers \'02;}\ltrpar \pardirnatural \li2160 \lin2160 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc2 \levelnfcn2 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'03(\'06);}
+{\levelnumbers \'02;}\ltrpar \pardirnatural \li2520 \lin2520 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc4 \levelnfcn4 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'03(\'07);}
+{\levelnumbers \'02;}\ltrpar \pardirnatural \li2880 \lin2880 \fi-360 \ri0 \rin0 }{\listlevel \levelnfc2 \levelnfcn2 \leveljcn0 \levelfollow0 \levelstartat1 \nisuslevelnuminc1 \levelspace0 \levelindent0 {\leveltext \'03(\'08);}
+{\levelnumbers \'02;}\ltrpar \pardirnatural \li3240 \lin3240 \fi-360 \ri0 \rin0 }{\listname ;}\listid590357944 \nisuslistcontnum0 {\*\liststylename Outline;}}}{\*\listoverridetable {\listoverride \listid585640194 \listoverridecount0 \ls1 }
+{\listoverride \listid937186357 \listoverridecount0 \ls2 }{\listoverride \listid1646035001 \listoverridecount0 \ls3 }{\listoverride \listid1025921153 \listoverridecount0 \ls4 }{\listoverride \listid510616708 \listoverridecount0 \ls5 }
+{\listoverride \listid590357944 \listoverridecount0 \ls6 }}\defformat {\info {\*\nisusgmtoffset -5:00}{\author Dave Cox}{\creatim \yr2010 \mo2 \dy15 \hr13 \min12 }{\revtim \yr2010 \mo2 \dy27 \hr11 \min51 }{\printim \yr2010 \mo2 \dy27 \hr11 \min49 }}
+{\*\userprops }\viewkind1 \viewzk1 \nisusviewruler1 \nisusviewtoolbar1 \nisusviewtooldrawer1 \nisusviewpagenumtype1 \nisusviewrulericons0 {\*\nisusviewsettings \viewkind4 \viewscale125 {\nisusnavsettings }
+{\nisuscommentsettings }}{\*\nisusviewsettings \viewkind1 \viewzk1 {\nisusnavsettings {\mode toc}{\visible 0}{\closedtochandles }}{\nisuscommentsettings }}{\*\nisuswindow \x83 \y53 \w968 \h932 }
+\nisusrulerunits0 \nshwinv1 \nshwpg1 \hyphauto0 \nisusinlinespell1 \nisusselectstart1364 \nisusselectlength0 \ftnstart1 \ftnnar \aftnstart1 \aftnnar \aenddoc \fet2 \ftnbj \paperw12240 \paperh15840 \margl1151 \margr1151 \margt1512 \margb1512 \gutter0 \pgnstart1 \nocolbal \f0 \sectd \linemod0 \cols2 \linebetcol \colno1 \colw5221 \colsr360 \colno2 \colw4357 \ltrsect \colbalsxn0 \pgwsxn12240 \pghsxn15840 \marglsxn1151 \margrsxn1151 \margtsxn1512 \margbsxn1512 \guttersxn0 \headery1112 \footery1112 \pgnstarts1 \pgnrestart \pgndec \sxnstarts1 \sxnrestart \sxndec {\header \plain {\pard \s194 \ql \widctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 {\f0 \fs24 \AppleTypeServices 2/27/2010\tab \tab \tab \tab }
+{\f1 \fs24 \AppleTypeServices \b Script for Mt. Tabor DVD }{\f0 \fs24 \AppleTypeServices \b0     \tab \tab \tab \tab   1\par }}}{\footer \plain {\pard \s196 \ql \widctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl240 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 {\f0 \fs24 \AppleTypeServices                                                                               Page 1\par }}}
+\deftab720 {\pard \ql \nowidctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl288 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 {\f2 \AppleTypeServices \b INTRODUCTION:\par
+}
+{\f3 \AppleTypeServices \b0 Welcome!  Come. Take a journey with us. The faith community of Mount Tabor Presbyterian Church wants you to know about the special place that is our church home. Here, we are shepherded by Christ. Here, we live our lives in fellowship with one another, and in service to those in need. \par
+At Mount Tabor, we believe that God\rquote s will is for us to be a warm and inviting community of faith.\par
+We are a living testimony to 150 years of our church\rquote s history as we continue to endeavor carrying forth the message of God\rquote s love and grace into our community and the world.\par
+We celebrate God\rquote s love together, through meaningful worship and spiritual growth, through our work in the community, and at church gatherings. Let us tell you about how we accomplish all that.\par
+}
+{\f2 \AppleTypeServices \b \par
+}}{\pard \ql \nowidctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl336 \slmult1 \ltrpar \pardirnatural \li0 \lin0 \fi0 \ri0 \rin0 {\f2 \AppleTypeServices \b Mount Tabor knows how important it is to feed the soul;}
+{\f3 \AppleTypeServices \b0 \par
+}}{\pard \ql \nowidctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl288 \slmult1 \ltrpar \pardirnatural \li720 \lin720 \fi0 \ri0 \rin0 {\f3 \AppleTypeServices Our praise ensemble and our choir offer a variety of music that touches hearts, stirs our spirits, and stays with us as we live our lives outside the walls of our church\par
+\par
+We value the wisdom of the old and the young and we nurture those relationships. \par
+\par
+The children of Mount Tabor are active participants in our faith journey, through children\rquote s time, in church school, and in church activities\par
+\par
+\par
+}}
+{\pard \ql \nowidctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl288 \slmult1 \ltrpar \pardirnatural \li289 \lin289 \fi431 \ri0 \rin0 \tx5329 {\f3 \AppleTypeServices \par
+Male VO\par
+}}
+{\pard \ql \nowidctlpar \nisuskeep0 \nisuskeepn0 \sb0 \sa0 \sl312 \slmult1 \ltrpar \pardirnatural \li720 \lin720 \fi0 \ri0 \rin0 {\f3 \AppleTypeServices Church pic(daylight)\par
+Dissolve to Welcome door pic\par
+\par
+Inside video\par
+\par
+\par
+\par
+Roll of Statement w/Audio??\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+\par
+slo AE transition w/Symbol\par
+\par
+\nisusselectcaret Female VO\par
+\par
+with audio up\par
+\par
+\par
+\par
+NEED shots\par
+\par
+\par
+\par
+\par
+\par
+vid of children\rquote s time\par
+\par
+candle lighters?\par
+\par }}}

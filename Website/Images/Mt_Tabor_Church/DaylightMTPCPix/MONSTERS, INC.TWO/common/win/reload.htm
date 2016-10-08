@@ -1,0 +1,68 @@
+<HTML>
+<HEAD>
+<TITLE>ReloadAllContentLocal</TITLE>
+<SCRIPT LANGUAGE="JavaScript" src="script/common.js"></SCRIPT>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+// This file is used to reload all the content
+// locally after having some frames in a different
+// domain
+//
+//
+function getCookie(cookieName)
+{
+   var cookieValue = null;
+   var posName = document.cookie.indexOf(escape(cookieName) + '=');
+
+   if (posName != -1)
+   {
+      var posValue = posName + (escape(cookieName) + '=').length;
+      var endPos = document.cookie.indexOf(';', posValue);
+      if (endPos != -1)
+      {
+         cookieValue = unescape(document.cookie.substring(posValue, endPos));
+      }
+      else
+      {
+         cookieValue = unescape(document.cookie.substring(posValue));
+      }
+   }
+   return cookieValue;
+}
+
+
+
+
+
+
+function ReLoad() {
+
+top.vari.cTitle=getCookie('nTitle');
+top.vari.elapsedTime=getCookie('neTime');
+top.vari.totalTime=getCookie('ntTime');
+
+var valuenT=getCookie('nTitle');
+var valueeT=getCookie('neTime');
+var valuetT=getCookie('ntTime');
+
+//alert('Title = '+valuenT);
+//alert('Elapsed Time= '+valueeT);
+//alert('Total Time= '+valuetT);
+
+self.location="main.htm";
+
+
+
+}
+
+//-->
+</SCRIPT>
+
+</HEAD>
+<BODY bgcolor="#000000" text="#000000" link="#000000" vlink="#000000" alink="#000000"  scroll="no" onload="Javascript:ReLoad();">
+
+
+
+
+</BODY>
+</HTML>

@@ -1,0 +1,40 @@
+InterActual Technologies, Inc. ("ITI")
+Acuerdo de Licencia para el Usuario Final
+
+SÍRVASE LEER CUIDADOSAMENTE ESTE DOCUMENTO ANTES DE EJECUTAR EL SOFTWARE INCLUIDO.  ESTE ACUERDO LE AUTORIZA A UTILIZAR EL SOFTWARE INCLUIDO Y CONTIENE DECLARACIONES DE GARANTÍA Y DESCARGOS DE RESPONSABILIDAD.  AL EJECUTAR EL SOFTWARE INCLUIDO, USTED ACEPTA QUEDAR OBLIGADO POR LOS TÉRMINOS DE ESTE ACUERDO. SI NO ACEPTA ESTOS TÉRMINOS, CANCELE ESTE PROGRAMA DE INSTALACIÓN Y NO UTILICE ESTE SOFTWARE. EN LUGAR DE ELLO, USE EL PROGRAMA REPRODUCTOR DE DVD QUE VINO INSTALADO EN SU COMPUTADORA O EN EL KIT DE SU UNIDAD DVD.
+
+1. Definiciones
+   (a) "Software de ITI" significa los programas incluidos en el paquete adjunto y todas las versiones actualizadas suministradas por ITI.
+   (b) "Producto ITI" significa el Software de ITI y documentación relacionada, así como los modelos y contenido en multimedia (como vídeo, animación, sonido y elementos gráficos) y todas las versiones actualizadas suministradas por ITI.
+
+2. Licencia.  Este acuerdo le permite:
+   (a) Usar el Software de ITI en una sola computadora.
+   (b) Hacer una copia del Software de ITI en forma legible para la máquina, solamente con el fin de tener una copia de seguridad.  Usted debe reproducir en tal copia todas las menciones de derechos de autor y toda leyenda sobre derechos de propiedad que aparecen en la copia original del Software de ITI.
+   (c) El uso de cierto Software de ITI se autoriza con derechos adicionales, según se establece en el Anexo de Derechos Suplementarios, el cual puede estar incluido en el paquete de este Producto ITI.
+
+3. Licencias suplementarias.  Ciertos derechos no son otorgados en este Acuerdo pero pueden estar a la disposición mediante un acuerdo por separado.  Si deseara contratar alguna de las Licencias Suplementarias enumeradas abajo, sírvase comunicarse con ITI.
+   (a) Licencia de copias locales.  Debe contratar una Licencia de Copias Locales del Software de ITI si desea hacer copias del Software de ITI para usarlas en otras CPU de su propiedad.
+   (b) Licencia de distribución.  Debe firmar un Acuerdo de Distribución de Software de ITI en Código Ejecutable si desea copiar y distribuir un Producto para Usuario Final (y la versión correspondiente en código ejecutable), de una forma no estipulada en la Sección 2.
+
+4. Restricciones.  Usted no puede hacer ni distribuir copias del Producto ITI, ni transferir electrónicamente el Software de ITI de una computadora a otra, ni a través de una red.  No puede descompilar, rediseñar, desensamblar ni reducir de ninguna manera el Software de ITI a ninguna forma perceptible al ser humano.  No puede modificar, alquilar, revender con ganancia, distribuir ni crear productos derivados usando como base el Software de ITI ni ninguna parte del mismo.  No puede exportar ni reexportar, directa ni indirectamente, el Producto ITI a ningún país al que esté prohibido según la Ley de Administración de Exportaciones de los Estados Unidos y las regulaciones de la misma.
+
+5. Propiedad.  La licencia anterior le concede derechos limitados para usar el Software de ITI.  Aunque usted es propietario del disco o unidad CD-ROM en el que se grabó el Software de ITI, usted no se convierte en el propietario del Producto ITI, ni de las copias del mismo, ni de ningún derecho asociado de patente, de reproducción, de secreto industrial ni de propiedad intelectual, por lo cual ITI (y sus licenciantes) retienen la propiedad de los mismos.  Todos los derechos no concedidos específicamente en este Acuerdo quedan reservados a ITI.
+
+6. Limitación de Garantías.
+   (a) ITI garantiza que, durante un período de noventa (90) días a partir de la fecha de entrega (según la copia de su recibo): el medio de almacenamiento en el cual se suministra el Software de ITI estará libre de defectos de materiales y de  fabricación, en condiciones normales de uso.  A EXCEPCIÓN DE LA GARANTÍA EXPRESADA ANTERIORMENTE, EL SOFTWARE DE ITI SE SUMINISTRA "TAL CUAL" Y SIN NINGUNA GARANTÍA DE NINGUNA CLASE.  ITI DESCONOCE CUALQUIER OTRA GARANTÍA, EXPRESA O IMPLÍCITA, INCLUIDA TODA GARANTÍA DE COMERCIABILIDAD, IDONEIDAD PARA UN USO DETERMINADO Y NO-VIOLACIÓN.  SI ALGUNA LEY PERTINENTE IMPLICA ALGUNA GARANTÍA CON RESPECTO AL PRODUCTO ITI, TAL GARANTÍA SE LIMITA EN DURACIÓN A NOVENTA (90) DÍAS A PARTIR DE LA FECHA DE ENTREGA.  Ninguna información, oral o escrita, o consejo dado por ITI, sus detallistas, distribuidores, agentes o empleados, creará ninguna garantía ni aumentará en ninguna forma el alcance de esta garantía.
+   (b) ALGUNOS ESTADOS NO PERMITEN LA EXCLUSIÓN DE GARANTÍAS IMPLÍCITAS, POR LO CUAL POSIBLEMENTE ESTA EXCLUSIÓN NO SE APLIQUE EN SU CASO.  ESTA GARANTÍA LE CONCEDE DERECHOS LEGALES ESPECÍFICOS Y POSIBLEMENTE USTED TAMBIÉN GOCE DE OTROS DERECHOS LEGALES, LOS CUALES VARÍAN DE ESTADO A ESTADO.
+
+7. Recursos legales exclusivos.  Su recurso legal exclusivo, según la Sección 6, consiste en recibir una copia de reemplazo del Software de ITI. ITI empleará todo esfuerzo comercial razonable para suministrarle una copia de reemplazo del Software de ITI.  ITI no tendrá ninguna responsabilidad con respecto al Software de ITI que haya sido alterado en cualquier forma, o en los casos en que al usarse el mismo en conjunción con software o hardware no suministrado por ITI, resulten violadas las especificaciones, ni con respecto a ningún medio de almacenamiento dañado por accidente, mal trato o uso indebido. 
+
+8. Limitaciones relacionadas con daños.
+   (a) ITI (Y SUS LICENCIANTES) NO ASUMEN LA RESPONSABILIDAD POR NINGÚN DAÑO INDIRECTO, ESPECIAL, INCIDENTAL O DERIVADO (INCLUIDOS LOS DAÑOS POR PÉRDIDA DE INGRESOS O GANANCIAS Y OTROS DAÑOS RELACIONADOS), YA SEA PROVENIENTE DE UN INCUMPLIMIENTO DE CONTRATO, ACTO ILÍCITO (INCLUIDA LA NEGLIGENCIA), RESPONSABILIDAD DE PRODUCTO O DE CUALQUIER TIPO, INCLUSO SI ITI O SUS REPRESENTANTES HAN SIDO INFORMADOS DE LA POSIBILIDAD DE TALES DAÑOS, O SI SE ENCUENTRA QUE UN RECURSO LEGAL ESTABLECIDO EN ESTE DOCUMENTO NO HA CUMPLIDO SU PROPÓSITO PRINCIPAL.  EN NINGÚN CASO ITI (NI NINGUNO DE SUS LICENCIANTES) SERÁ RESPONSABLE DE LOS COSTOS DE ADQUISICIÓN DE BIENES SUPLENTES O SERVICIOS.
+   (b) Toda la responsabilidad de ITI hacia usted por daños reales provenientes de cualquier causa quedará limitada a lo que sea mayor, $1.00 o la cantidad pagada por usted por el Software de ITI que causó tales daños.
+   (c) ALGUNOS ESTADOS NO PERMITEN LA LIMITACIÓN O EXCLUSIÓN DE RESPONSABILIDAD POR DAÑOS INCIDENTALES NI DERIVADOS, POR LO CUAL POSIBLEMENTE ESTA EXCLUSIÓN NO SE APLIQUE EN SU CASO.
+
+9. Bases del convenio.  La garantía limitada, recursos legales exclusivos y responsabilidad limitada estipulados arriba son elementos fundamentales de las bases del convenio entre ITI y usted.  ITI no podría suministrar el Software de ITI de forma económica sin tales limitaciones.
+
+10. Usuarios finales del gobierno.  El Gobierno reconoce haber recibido aviso de que los Productos y documentación relacionada se desarrollaron con gastos privados y que ninguna parte de ellos está en el dominio público.  El Gobierno admite la declaración de ITI de que los Productos son "Software comercial para computadoras", según se describe en los incisos FAR 12.212, DFAR 227.7202 y regulaciones semejantes promulgadas por otros organismos gubernamentales de EE.UU. En ningún caso, los derechos del Gobierno en cuanto al software y a la documentación del mismo se excederán de los derechos expresados en el inciso FAR 52.227-19 (Derechos restringidos).  Derechos no publicados según las leyes de derechos de reproducción de Estados Unidos.  Fabricante:  INTERACTUAL TECHNOLOGIES INC., 100 Century Center Court, Suite 205, San Jose, 
+CA  95112.
+
+11. Información general.  Este Acuerdo está regido por las leyes internas del Estado de California.  Este Acuerdo contiene el acuerdo completo entre las partes con respecto al asunto en cuestión y reemplaza todo acuerdo o convenio, previo o contemporáneo, ya sea oral o escrito.  Todas las preguntas relacionadas con este Acuerdo deberán dirigirse a ITI, a la dirección indicada arriba.
+
