@@ -22,24 +22,13 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="..\..\Website\Calendar.html">
-      <Link>Calendar.html</Link>
-    </Content>
-    <Content Include="..\..\Website\index.html">
-      <Link>index.html</Link>
-    </Content>
-    <Content Include="..\..\Website\Staff.html">
-      <Link>Staff.html</Link>
-    </Content>
-    <Content Include="..\..\Website\TaborHistory.html">
-      <Link>TaborHistory.html</Link>
-    </Content>
-    <Content Include="..\..\Website\Template.css">
-      <Link>Template.css</Link>
-    </Content>
-    <Content Include="..\..\Website\WeeCare.html">
-      <Link>WeeCare.html</Link>
-    </Content>
+    <Content Include="Web Files\Calendar.html" />
+    <Content Include="Web Files\index.html" />
+    <Content Include="Web Files\Staff.html" />
+    <Content Include="Web Files\tabor.css" />
+    <Content Include="Web Files\TaborHistory.html" />
+    <Content Include="Web Files\Template.css" />
+    <Content Include="Web Files\WeeCare.html" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -51,24 +40,15 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="..\..\Website\Calendar.ts">
-      <Link>Calendar.ts</Link>
-    </TypeScriptCompile>
-    <TypeScriptCompile Include="..\..\Website\Index.ts">
-      <Link>Index.ts</Link>
-    </TypeScriptCompile>
-    <TypeScriptCompile Include="..\..\Website\Populate.ts">
-      <Link>Populate.ts</Link>
-    </TypeScriptCompile>
-    <TypeScriptCompile Include="..\..\Website\Staff.ts">
-      <Link>Staff.ts</Link>
-    </TypeScriptCompile>
-    <TypeScriptCompile Include="..\..\Website\TaborHistory.ts">
-      <Link>TaborHistory.ts</Link>
-    </TypeScriptCompile>
-    <TypeScriptCompile Include="..\..\Website\WeeCare.ts">
-      <Link>WeeCare.ts</Link>
-    </TypeScriptCompile>
+    <TypeScriptCompile Include="Web Files\Calendar.ts" />
+    <TypeScriptCompile Include="Web Files\Index.ts" />
+    <TypeScriptCompile Include="Web Files\Populate.ts" />
+    <TypeScriptCompile Include="Web Files\Staff.ts" />
+    <TypeScriptCompile Include="Web Files\TaborHistory.ts" />
+    <TypeScriptCompile Include="Web Files\WeeCare.ts" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Web Files\Images\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">12.0</VisualStudioVersion>
