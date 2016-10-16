@@ -1,0 +1,1855 @@
+Notes:
+moveAngle - the angle to move each food per time slice through the food machine
+( increasing this number causes the food in each machine to move faster )
+offsetAngle - the angle to start the food at in this machine
+( allows machines to be staggered at the beginning )
+orders numbered over 100 are considered specials.
+timeForLevel - total amount of time to complete the level
+
+
+[Intro]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		13
+		2
+		14
+		4
+		49
+		6
+	moveAngle=-2
+	offsetAngle=0
+Machine2
+	foods
+		7
+		8
+		3
+		14
+		24
+		12
+	moveAngle=-2
+	offsetAngle=0
+Machine3
+	foods
+		1
+		50
+		31
+		39
+		58
+		18
+	moveAngle=-2
+	offsetAngle=0
+orders
+	1=1
+	special
+	
+
+[Level1]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		18
+		14
+		14
+	moveAngle=-1.5
+	offsetAngle=1
+Machine2
+	foods
+		49
+		19
+		50
+	moveAngle=-1.5
+	offsetAngle=0
+Machine3
+	foods
+		58
+		33
+		29
+	moveAngle=-1.5
+	offsetAngle=1
+orders
+	1=71
+
+[Level2]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		54
+		11
+		15
+		16
+	moveAngle=-1.5
+	offsetAngle=0
+Machine2
+	foods
+		24
+		38
+		53
+		17
+	moveAngle=-1.5
+	offsetAngle=1
+Machine3
+	foods
+		39
+		32
+		17
+		2
+	moveAngle=-1.5
+	offsetAngle=0
+orders
+	1=72
+	2=75
+
+[Level3]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		18
+		44
+		12
+		13
+		41
+	moveAngle=-1.5
+	offsetAngle=1
+Machine2
+	foods
+		10
+		31
+		18
+		16
+		26
+	moveAngle=-1.5
+	offsetAngle=0
+Machine3
+	foods
+		24
+		37
+		3
+		19
+		4
+	moveAngle=-1.5
+	offsetAngle=1
+orders
+	1=73
+	2=71
+	
+[Level4]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		31
+		7
+		9
+		17
+		43
+	moveAngle=-1.5
+	offsetAngle=0
+Machine2
+	foods
+		45
+		1
+		32
+		23
+		8
+	moveAngle=-1.5
+	offsetAngle=1
+Machine3
+	foods
+		15
+		22
+		13
+		35
+		21
+	moveAngle=-1.5
+	offsetAngle=0
+orders
+	1=74
+	2=75
+
+[Level5]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		29
+		24
+		51
+		15
+		23
+	moveAngle=-2
+	offsetAngle=1
+Machine2
+	foods
+		14
+		41
+		5
+		41
+		27
+	moveAngle=-2
+	offsetAngle=0
+Machine3
+	foods
+		39
+		17
+		6
+		13
+		7
+	moveAngle=-2
+	offsetAngle=0
+orders
+	1=76
+	2=77
+	special
+
+[Level6]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		14
+		27
+		54
+		23
+		36
+		11
+	moveAngle=-2
+	offsetAngle=1
+Machine2
+	foods
+		55
+		4
+		10
+		13
+		37
+		3
+	moveAngle=-2
+	offsetAngle=0
+Machine3
+	foods
+		25
+		9
+		30
+		2
+		46
+		12
+	moveAngle=-2
+	offsetAngle=1
+orders
+	1=78
+	special
+	2=79
+	3=80
+
+[Level7]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		12
+		43
+		14
+		22
+		24
+		16
+	moveAngle=-2
+	offsetAngle=0
+Machine2
+	foods
+		43
+		1
+		40
+		8
+		5
+		2
+	moveAngle=-2
+	offsetAngle=1
+Machine3
+	foods
+		7
+		31
+		6
+		2
+		36
+		23
+	moveAngle=-2
+	offsetAngle=1
+orders
+	1=1
+	2=2
+	3=3
+	special
+
+[Level8]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		14
+		60
+		17
+		9
+		31
+		10
+	moveAngle=-2
+	offsetAngle=0
+Machine2
+	foods
+		25
+		26
+		39
+		15
+		16
+		4
+	moveAngle=-2
+	offsetAngle=1
+Machine3
+	foods
+		51
+		10
+		27
+		11
+		13
+		33
+	moveAngle=-2
+	offsetAngle=0
+orders
+	1=4
+	2=5
+	special
+	3=6
+
+[Level9]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		29
+		17
+		24
+		5
+		28
+		58
+	moveAngle=-2
+	offsetAngle=1
+Machine2
+	foods
+		59
+		12
+		31
+		3
+		2
+		8
+	moveAngle=-2
+	offsetAngle=0
+Machine3
+	foods
+		30
+		6
+		9
+		42
+		10
+		7
+	moveAngle=-2
+	offsetAngle=1
+orders
+	1=7
+	2=8
+	3=9
+	4=10
+	special
+
+[Level10]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		10
+		48
+		17
+		25
+		7
+		3
+	moveAngle=-2
+	offsetAngle=1
+Machine2
+	foods
+		23
+		57
+		14
+		26
+		2
+		37
+	moveAngle=-2
+	offsetAngle=1
+Machine3
+	foods
+		9
+		22
+		21
+		13
+		16
+		11
+	moveAngle=-2
+	offsetAngle=0
+orders
+	1=11
+	special
+	2=12
+	3=13
+	4=14
+
+[Level11]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		13
+		17
+		8
+		19
+		24
+		16
+		50
+	moveAngle=-2.5
+	offsetAngle=1
+Machine2
+	foods
+		10
+		14
+		2
+		4
+		3
+		18
+		53
+	moveAngle=-2.5
+	offsetAngle=0
+Machine3
+	foods
+		27
+		11
+		23
+		30
+		20
+		15
+		59
+	moveAngle=-2.5
+	offsetAngle=1
+orders
+	1=15
+	2=16
+	special
+	3=17
+	4=18
+
+[Level12]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		27
+		26
+		29
+		47
+		10
+		12
+		20
+	moveAngle=-2.5
+	offsetAngle=1
+Machine2
+	foods
+		19
+		17
+		23
+		34
+		22
+		25
+		30
+	moveAngle=-2.5
+	offsetAngle=0
+Machine3
+	foods
+		11
+		13
+		43
+		4
+		8
+		3
+		18
+	moveAngle=-2.5
+	offsetAngle=1
+orders
+	1=19
+	2=20
+	3=21
+	4=22
+	special
+
+[Level13]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		18
+		6
+		25
+		2
+		37
+		19
+		58
+	moveAngle=-2.5
+	offsetAngle=0
+Machine2
+	foods
+		1
+		52
+		28
+		32
+		9
+		24
+		3
+	moveAngle=-2.5
+	offsetAngle=1
+Machine3
+	foods
+		11
+		10
+		20
+		14
+		35
+		31
+		8
+	moveAngle=-2.5
+	offsetAngle=0
+orders
+	1=23
+	special
+	2=24
+	3=1
+	4=2
+
+[Level14]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		20
+		56
+		44
+		31
+		45
+		57
+		21
+	moveAngle=-2.5
+	offsetAngle=1
+Machine2
+	foods
+		3
+		15
+		1
+		38
+		34
+		14
+		10
+	moveAngle=-2.5
+	offsetAngle=0
+Machine3
+	foods
+		29
+		37
+		8
+		38
+		46
+		6
+		55
+	moveAngle=-2.5
+	offsetAngle=1
+orders
+	1=25
+	2=26
+	3=27
+	special
+	4=28
+	5=29
+
+[Level15]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		47
+		5
+		38
+		15
+		7
+		31
+		52
+	moveAngle=-2.5
+	offsetAngle=1
+Machine2
+	foods
+		22
+		6
+		26
+		49
+		51
+		47
+		20
+	moveAngle=-2.5
+	offsetAngle=0
+Machine3
+	foods
+		40
+		24
+		27
+		9
+		60
+		21
+		48
+	moveAngle=-2.5
+	offsetAngle=1
+orders
+	1=30
+	special
+	2=31
+	3=32
+	4=33
+	5=34
+
+[Level16]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		39
+		41
+		5
+		50
+		5
+		29
+		39
+	moveAngle=-3
+	offsetAngle=0
+Machine2
+	foods
+		59
+		32
+		43
+		40
+		36
+		35
+		16
+	moveAngle=-3
+	offsetAngle=1
+Machine3
+	foods
+		12
+		29
+		25
+		55
+		42
+		24
+		56
+	moveAngle=-3
+	offsetAngle=0
+orders
+	1=35
+	2=36
+	3=37
+	special
+	4=38
+	5=39
+
+[Level17]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		58
+		26
+		43
+		54
+		37
+		55
+		42
+	moveAngle=-3
+	offsetAngle=1
+Machine2
+	foods
+		37
+		48
+		7
+		46
+		41
+		1
+		45
+	moveAngle=-3
+	offsetAngle=1
+Machine3
+	foods
+		42
+		58
+		33
+		50
+		36
+		53
+		51
+	moveAngle=-3
+	offsetAngle=0
+orders
+	1=40
+	2=41
+	3=42
+	4=43
+	special
+	5=44
+
+[Level18]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		58
+		60
+		36
+		2
+		44
+		57
+		40
+	moveAngle=-3
+	offsetAngle=1
+Machine2
+	foods
+		49
+		34
+		3
+		54
+		56
+		37
+		53
+	moveAngle=-3
+	offsetAngle=0
+Machine3
+	foods
+		35
+		49
+		38
+		56
+		51
+		19
+		52
+	moveAngle=-3
+	offsetAngle=1
+orders
+	1=45
+	2=46
+	3=47
+	4=48
+	special
+	5=49
+
+[Level19]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		45
+		56
+		58
+		59
+		24
+		39
+		48
+	moveAngle=-3
+	offsetAngle=1
+Machine2
+	foods
+		38
+		54
+		43
+		35
+		33
+		47
+		53
+	moveAngle=-3
+	offsetAngle=0
+Machine3
+	foods
+		43
+		42
+		55
+		41
+		53
+		9
+		44
+	moveAngle=-3
+	offsetAngle=0
+orders
+	1=50
+	special
+	2=51
+	3=52
+	4=53
+	5=54
+
+[Level20]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		37
+		48
+		59
+		56
+		50
+		57
+		54
+	moveAngle=-3
+	offsetAngle=1
+Machine2
+	foods
+		44
+		57
+		45
+		36
+		51
+		39
+		46
+	moveAngle=-3
+	offsetAngle=0
+Machine3
+	foods
+		41
+		47
+		40
+		38
+		34
+		46
+		39
+	moveAngle=-3
+	offsetAngle=1
+orders
+	1=55
+	2=56
+	special
+	3=57
+	4=58
+	5=59
+	6=60
+
+[Level21]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		54
+		55
+		58
+		45
+		33
+		43
+		35
+	moveAngle=-3.5
+	offsetAngle=0
+Machine2
+	foods
+		56
+		49
+		38
+		35
+		59
+		50
+		35
+	moveAngle=-3.5
+	offsetAngle=1
+Machine3
+	foods
+		56
+		37
+		44
+		41
+		39
+		52
+		47
+	moveAngle=-3.5
+	offsetAngle=1
+orders
+	1=61
+	2=62
+	3=63
+	4=64
+	special
+	5=65
+	6=66
+
+[Level22]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		37
+		40
+		53
+		52
+		53
+		42
+		43
+	moveAngle=-3.5
+	offsetAngle=1
+Machine2
+	foods
+		48
+		46
+		33
+		55
+		46
+		36
+		59
+	moveAngle=-3.5
+	offsetAngle=0
+Machine3
+	foods
+		34
+		51
+		37
+		42
+		58
+		45
+		58
+	moveAngle=-3.5
+	offsetAngle=1
+orders
+	1=67
+	special
+	2=68
+	3=69
+	4=70
+	5=41
+	6=42
+
+[Level23]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		53
+		48
+		41
+		52
+		45
+		37
+		50
+	moveAngle=-3.5
+	offsetAngle=1
+Machine2
+	foods
+		51
+		56
+		38
+		50
+		39
+		57
+		37
+	moveAngle=-3.5
+	offsetAngle=1
+Machine3
+	foods
+		56
+		54
+		49
+		42
+		54
+		52
+		58
+	moveAngle=-3.5
+	offsetAngle=0
+orders
+	1=43
+	2=45
+	3=47
+	4=49
+	5=51
+	6=53
+	special
+
+[Level24]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		35
+		59
+		56
+		42
+		56
+		38
+		58
+	moveAngle=-3.5
+	offsetAngle=1
+Machine2
+	foods
+		47
+		33
+		44
+		36
+		45
+		53
+		43
+	moveAngle=-3.5
+	offsetAngle=0
+Machine3
+	foods
+		39
+		47
+		35
+		34
+		55
+		43
+		40
+	moveAngle=-3.5
+	offsetAngle=0
+orders
+	1=44
+	2=46
+	3=48
+	special
+	4=50
+	5=52
+	6=54
+
+[Level25]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		45
+		35
+		48
+		52
+		39
+		47
+		59
+	moveAngle=-3.5
+	offsetAngle=0
+Machine2
+	foods
+		38
+		53
+		58
+		34
+		59
+		38
+		37
+	moveAngle=-3.5
+	offsetAngle=1
+Machine3
+	foods
+		57
+		35
+		36
+		58
+		43
+		44
+		38
+	moveAngle=-3.5
+	offsetAngle=0
+orders
+	1=56
+	special
+	2=58
+	3=60
+	4=62
+	5=64
+	6=66
+
+[Level26]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		41
+		56
+		46
+		36
+		37
+		57
+		50
+	moveAngle=-4
+	offsetAngle=1
+Machine2
+	foods
+		57
+		39
+		55
+		41
+		51
+		33
+		60
+	moveAngle=-4
+	offsetAngle=1
+Machine3
+	foods
+		54
+		44
+		56
+		50
+		56
+		49
+		40
+	moveAngle=-4
+	offsetAngle=0
+orders
+	1=55
+	2=57
+	3=59
+	4=61
+	5=63
+	6=65
+	special
+
+[Level27]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		44
+		45
+		55
+		43
+		39
+		48
+		35
+	moveAngle=-4
+	offsetAngle=0
+Machine2
+	foods
+		45
+		53
+		36
+		40
+		41
+		42
+		38
+	moveAngle=-4
+	offsetAngle=1
+Machine3
+	foods
+		40
+		36
+		33
+		34
+		37
+		37
+		34
+	moveAngle=-4
+	offsetAngle=1
+orders
+	1=68
+	2=70
+	special
+	3=42
+	4=46
+	5=48
+	6=44
+
+[Level28]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		49
+		56
+		33
+		51
+		53
+		54
+		33
+		58
+	moveAngle=-4
+	offsetAngle=1
+Machine2
+	foods
+		56
+		54
+		41
+		37
+		48
+		46
+		58
+		46
+	moveAngle=-4
+	offsetAngle=0
+Machine3
+	foods
+		39
+		58
+		58
+		57
+		52
+		53
+		50
+		46
+	moveAngle=-4
+	offsetAngle=1
+orders
+	1=41
+	2=43
+	3=45
+	special
+	4=47
+	5=49
+	6=51
+	special
+
+[Level29]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		47
+		57
+		59
+		49
+		33
+		45
+		38
+		49
+	moveAngle=-4
+	offsetAngle=1
+Machine2
+	foods
+		37
+		35
+		43
+		53
+		55
+		47
+		36
+		35
+	moveAngle=-4
+	offsetAngle=0
+Machine3
+	foods
+		59
+		48
+		43
+		35
+		34
+		58
+		56
+		43
+	moveAngle=-4
+	offsetAngle=1
+orders
+	1=50
+	2=52
+	special
+	3=54
+	4=56
+	5=58
+	special
+	6=60
+	
+
+[Level30]
+timeForLevel=300
+timePerOrder=30
+Machine1
+	foods
+		37
+		53
+		38
+		54
+		55
+		51
+		46
+		55
+	moveAngle=-4
+	offsetAngle=1
+Machine2
+	foods
+		49
+		34
+		42
+		48
+		47
+		56
+		47
+		50
+	moveAngle=-4
+	offsetAngle=1
+Machine3
+	foods
+		45
+		40
+		42
+		37
+		33
+		56
+		40
+		37
+	moveAngle=-4
+	offsetAngle=2
+orders
+	1=53
+	special
+	2=67
+	3=61
+	4=68
+	5=55
+	special
+	6=63
+	
+
+
+
+[Orders]
+	1
+		14
+		1
+		8
+		81
+	2
+		2
+		6
+		24
+		82
+	3
+		12
+		5
+		23
+		81
+	4
+		15
+		17
+		27
+		82
+	5
+		11
+		4
+		26
+		81
+	6
+		13
+		10
+		16
+		82
+	7
+		5
+		3
+		9
+		81
+	8
+		8
+		10
+		28
+		82
+	9
+		30
+		31
+		17
+		87
+	10
+		12
+		29
+		7
+		82
+	11
+		14
+		10
+		21
+		81
+	12
+		13
+		3
+		23
+		86
+	13
+		11
+		9
+		25
+		88
+	14
+		2
+		7
+		22
+		86
+	15
+		30
+		4
+		27
+		88
+	16
+		18
+		19
+		20
+		86
+	17
+		14
+		3
+		23
+		88
+	18
+		2
+		16
+		15
+		85
+	19
+		11
+		8
+		22
+		88
+	20
+		13
+		10
+		19
+		85
+	21
+		12
+		4
+		17
+		87
+	22
+		18
+		29
+		26
+		83
+	23
+		31
+		9
+		28
+		82
+	24
+		32
+		25
+		37
+		86
+	25
+		44
+		1
+		6
+		87
+	26
+		14
+		38
+		57
+		88
+	27
+		55
+		3
+		20
+		82
+	28
+		45
+		15
+		29
+		84
+	29
+		46
+		34
+		21
+		81
+	30
+		31
+		60
+		20
+		86
+	31
+		49
+		5
+		24
+		86
+	32
+		47
+		6
+		21
+		87
+	33
+		51
+		52
+		27
+		88
+	34
+		48
+		15
+		26
+		84
+	35
+		40
+		41
+		25
+		85
+	36
+		42
+		5
+		43
+		81
+	37
+		39
+		56
+		16
+		83
+	38
+		32
+		29
+		50
+		85
+	39
+		59
+		35
+		29
+		82
+	40
+		54
+		33
+		1
+		86
+	41
+		46
+		53
+		58
+		85
+	42
+		55
+		36
+		37
+		87
+	43
+		48
+		50
+		58
+		83
+	44
+		45
+		42
+		43
+		84
+	45
+		54
+		52
+		56
+		82
+	46
+		44
+		38
+		34
+		86
+	47
+		51
+		56
+		37
+		85
+	48
+		40
+		36
+		35
+		87
+	49
+		49
+		53
+		57
+		84
+	50
+		59
+		35
+		43
+		85
+	51
+		54
+		39
+		41
+		81
+	52
+		55
+		56
+		33
+		85
+	53
+		45
+		42
+		38
+		85
+	54
+		47
+		53
+		58
+		83
+	55
+		51
+		56
+		40
+		81
+	56
+		45
+		34
+		37
+		88
+	57
+		44
+		39
+		57
+		85
+	58
+		48
+		38
+		36
+		86
+	59
+		46
+		50
+		41
+		87
+	60
+		47
+		57
+		59
+		84
+	61
+		49
+		33
+		37
+		86
+	62
+		39
+		35
+		58
+		88
+	63
+		54
+		56
+		50
+		84
+	64
+		52
+		38
+		43
+		87
+	65
+		55
+		56
+		41
+		85
+	66
+		44
+		59
+		35
+		81
+	67
+		46
+		42
+		34
+		86
+	68
+		48
+		53
+		40
+		85
+	69
+		51
+		52
+		58
+		88
+	70
+		45
+		33
+		37
+		87
+	71
+		18
+		19
+		85
+	72
+		2
+		16
+		83
+	73
+		31
+		24
+		81
+	74
+		32
+		21
+		88
+	75
+		15
+		17
+		85
+	76
+		13
+		23
+		86
+	77
+		14
+		29
+		81
+	78
+		12
+		27
+		83
+	79
+		10
+		11
+		84
+	80
+		3
+		9
+		88
+
+
+[Specials]
+	1
+		49
+		50
+		58
+		87
+	2
+		54
+		38
+		39
+		84
+	3
+		44
+		41
+		37
+		85
+	4
+		45
+		35
+		43
+		83
+	5
+		51
+		41
+		39
+		85
+	6
+		55
+		46
+		37
+		87
+	7
+		40
+		36
+		43
+		84
+	8
+		33
+		60
+		39
+		85
+	9
+		42
+		59
+		58
+		83
+	10
+		57
+		48
+		37
+		83
+	11
+		53
+		50
+		59
+		84
+	12
+		34
+		47
+		43
+		85
+	13
+		52
+		35
+		58
+		87
+	14
+		56
+		38
+		37
+		84
+	15
+		40
+		38
+		47
+		83
+	16
+		55
+		36
+		39
+		83
+	17
+		51
+		41
+		37
+		84
+	18
+		49
+		60
+		58
+		84
+	19
+		44
+		48
+		43
+		85
+	20
+		54 
+		46
+		39
+		85
+	21
+		45
+		35
+		47
+		87
+	22
+		42
+		59
+		43
+		83
+	23
+		52
+		50
+		37
+		84
+	24
+		56
+		47
+		39
+		85
+	25
+		53
+		38
+		58
+		87
+	26
+		57
+		36
+		60
+		87
+	27
+		34
+		41
+		39
+		83
+	28
+		33
+		46
+		58
+		84
+	29
+		49
+		35
+		43
+		84
+	30
+		55
+		47
+		37
+		85
+
+
