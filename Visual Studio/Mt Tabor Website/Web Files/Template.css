@@ -24,6 +24,7 @@ img {
 .box > img {
 	display: block;
 	position: relative; /* This protects the inner element from being blurred */
+	background-color: white;
 }
 .clearfix {
 	width: 960px;
@@ -61,6 +62,7 @@ img {
 }
 .more:hover {
 	background-position: 0 0;
+	color: #0492f7;
 }
 .subscribe, input[type='submit'] {
 	background-position: -222px -38px;
@@ -153,7 +155,7 @@ img {
 	/*text-decoration: underline;*/
 }
 .navigation li.active > a, .navigation li > a:hover {
-	color: #fff;
+	color: #0492f7;
 	text-decoration: underline;
 }
 .navigation li > div {
