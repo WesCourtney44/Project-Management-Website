@@ -9,8 +9,11 @@
 	background-size: 100%;
 }
 
-
 /*Fixes the margin issue on the history page*/
 #contents .highlight .clearfix h3 {
     margin-top: 0px;
+}
+
+#contents .highlight .clearfix .center {
+    text-align: center;
 }
