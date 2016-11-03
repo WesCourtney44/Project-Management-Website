@@ -2,13 +2,13 @@
 	The updated css elements to customize to more accurately represent the church
 	atmosphere
 */
-/*
+
 #header {
 	background-image: url("images/mtchurch.jpg");
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
-*/
+
 
 /*Fixes the margin issue on the history page*/
 #contents .highlight .clearfix h3 {
