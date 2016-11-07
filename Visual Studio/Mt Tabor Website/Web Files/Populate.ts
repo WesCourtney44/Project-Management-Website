@@ -46,7 +46,7 @@ class Populate {
         html += "<a href=\"http://freewebsitetemplates.com/go/googleplus/\" class=\"googleplus\"></a>";
         html += "<a href=\"http://pinterest.com/fwtemplates/\" class=\"pinterest\"></a>";
         html += "</div>";
-        html += "<p> © Copyright 2023 Manes Winchester. All Rights Reserved. </p>";
+        html += "<p> © Copyright Mt Tabor Church 2016. </p>";
         html += "</div>";
         html += "</div>";
         target.innerHTML = html;
