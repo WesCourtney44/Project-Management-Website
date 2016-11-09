@@ -62,7 +62,8 @@ class StaffMember {
         //Creates div container and sets the
         //tagName so it can be easily referenced in bootstrap/css
         let div: HTMLDivElement = document.createElement('div');
-        div.tagName = "StaffMember";
+        div.className = "StaffMember";
+        div.style.width = "183px";
 
         //creates image element and adds it to the container div
         let img: HTMLImageElement = document.createElement('img');

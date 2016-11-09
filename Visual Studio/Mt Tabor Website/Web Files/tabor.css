@@ -20,4 +20,37 @@
 
 #contents .highlight {
     padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* The width of container DIV */
+#container{
+    width:100%;
+}
+ 
+/* Style for each floated item */
+.StaffMember{
+    padding: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    float: left;
+    height: 100%;
+    /* Text align and background color */
+    text-align: center;
+    background-color: #e2e2e2;
+}
+ 
+/* Clear the "float" style */
+#clearer{
+    clear: both;
+}
+
+#floatingImage{
+    float: right;
+    margin-left: 10px;
+}
+
+#imageDescription{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }

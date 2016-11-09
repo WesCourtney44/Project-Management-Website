@@ -52,7 +52,8 @@ var StaffMember = (function () {
         //Creates div container and sets the
         //tagName so it can be easily referenced in bootstrap/css
         var div = document.createElement('div');
-        div.tagName = "StaffMember";
+        div.className = "StaffMember";
+        div.style.width = "183px";
         //creates image element and adds it to the container div
         var img = document.createElement('img');
         img.src = this.url;
