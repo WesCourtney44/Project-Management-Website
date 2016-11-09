@@ -17,3 +17,7 @@
 .center {
     text-align: center;
 }
+
+#contents .highlight {
+    padding-top: 20px;
+}
