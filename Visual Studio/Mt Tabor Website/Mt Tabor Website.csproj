@@ -24,6 +24,8 @@
   <ItemGroup>
     <Content Include="Web Files\Calendar.html" />
     <Content Include="Web Files\index.html" />
+    <Content Include="Web Files\Pastor.html" />
+    <Content Include="Web Files\Newsletter.html" />
     <Content Include="Web Files\Staff.html" />
     <Content Include="Web Files\tabor.css" />
     <Content Include="Web Files\TaborHistory.html" />
@@ -42,9 +44,11 @@
   <ItemGroup>
     <TypeScriptCompile Include="Web Files\Calendar.ts" />
     <TypeScriptCompile Include="Web Files\Index.ts" />
+    <TypeScriptCompile Include="Web Files\Newsletter.ts" />
     <TypeScriptCompile Include="Web Files\Populate.ts" />
     <TypeScriptCompile Include="Web Files\Staff.ts" />
     <TypeScriptCompile Include="Web Files\TaborHistory.ts" />
+    <TypeScriptCompile Include="Web Files\Pastor.ts" />
     <TypeScriptCompile Include="Web Files\WeeCare.ts" />
   </ItemGroup>
   <ItemGroup>
