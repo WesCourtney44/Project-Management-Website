@@ -1,0 +1,6 @@
+C:\Users\zinktrita\Desktop\Mt Tabor Church Website\Project-Management-Website\Visual Studio\Mt Tabor Website\bin\Mt Tabor Website.dll.config
+C:\Users\zinktrita\Desktop\Mt Tabor Church Website\Project-Management-Website\Visual Studio\Mt Tabor Website\bin\Mt Tabor Website.dll
+C:\Users\zinktrita\Desktop\Mt Tabor Church Website\Project-Management-Website\Visual Studio\Mt Tabor Website\bin\Mt Tabor Website.pdb
+C:\Users\zinktrita\Desktop\Mt Tabor Church Website\Project-Management-Website\Visual Studio\Mt Tabor Website\obj\Debug\Mt Tabor Website.csprojResolveAssemblyReference.cache
+C:\Users\zinktrita\Desktop\Mt Tabor Church Website\Project-Management-Website\Visual Studio\Mt Tabor Website\obj\Debug\Mt Tabor Website.dll
+C:\Users\zinktrita\Desktop\Mt Tabor Church Website\Project-Management-Website\Visual Studio\Mt Tabor Website\obj\Debug\Mt Tabor Website.pdb
