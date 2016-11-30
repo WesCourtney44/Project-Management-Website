@@ -4,8 +4,7 @@
 */
 
 #header {
-	background-image: url("images/mtchurch.jpg");
-	background-repeat: no-repeat;
+	background: url("images/mtchurch.jpg") repeat-x left top;
 	background-size: 100%;
 }
 
@@ -53,4 +52,10 @@
 #imageDescription{
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.socialMedia {
+    display: inline-block;
+    padding-right: 2px;
+    padding-left: 2px;
 }
