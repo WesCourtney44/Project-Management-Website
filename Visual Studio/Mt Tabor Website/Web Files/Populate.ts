@@ -41,9 +41,9 @@ class Populate {
         html += "		<p><span>Email:</span> taborchurch@mw.twcbc.com </p>";
         html += "	</div>";
         html += "	<div class=\"section\">";
-        html += "		<h4>SEND US A MESSAGE</h4>";
-        html += "		<p> If you're having problems editing this website template, then don't hesitate to ask for help on the Forums. </p>";
-        html += "		<a href=\"http://www.freewebsitetemplates.com/misc/contact/\" class=\"subscribe\">Click to send us an email</a>";
+        html += "		<h4>Newsletter</h4>";
+        html += "		<p> If you would like to keep up with our latest news and events, you can sign up for our email newsletter! </p>";
+        html += "		<a href=\"Newsletter.html\" class=\"subscribe\" style=\"color:#806f6f;\">Click here to sign up</a>";
         html += "	</div>";
         html += "</div>";
         html += "<div id=\"footnote\">";
