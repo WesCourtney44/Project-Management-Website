@@ -5,6 +5,8 @@ class Populate {
         let imgUrl: string = "images/MtTaborChurch.png";
 
         let html: string = "";
+
+        //////////////////////////////////////////////////////
         html += "<div class=\"clearfix\">";
         html += "<div class=\"logo\">";
         html += "<a href=\"index.html\">";
@@ -14,6 +16,7 @@ class Populate {
         html += "<ul id=\"navigation\" class=\"navigation\">";
         html += "</ul>";
         html += "</div>";
+        //////////////////////////////////////////////////////
 
         target.innerHTML = html;
         this.NavBar(document.getElementById("navigation"));
@@ -21,34 +24,42 @@ class Populate {
 
     public static Footer(target: HTMLElement): void {
         let html: string = "";
+
+        //////////////////////////////////////////////////////
         html += "<div class=\"clearfix\">";
-        html += "<div class=\"section\">";
-        html += "<h4>Latest News</h4>";
-        html += "<p> This website template has been designed by Free Website Templates for you, for free. You can replace all this text with your own text. You can remove any link. </p>";
-        html += "</div>";
-        html += "<div class=\"section contact\">";
-        html += "<h4>Contact Us</h4>";
-        html += "<p><span>Address:</span>918 Mt. Tabor Road, New Albany, IN 47150 </p>";
-        html += "<p><span>Phone:</span> (812)-944-7858 </p>";
-        html += "<p><span>Email:</span> taborchurch@mw.twcbc.com </p>";
-        html += "</div>";
-        html += "<div class=\"section\">";
-        html += "<h4>SEND US A MESSAGE</h4>";
-        html += "<p> If you're having problems editing this website template, then don't hesitate to ask for help on the Forums. </p>";
-        html += "<a href=\"http://www.freewebsitetemplates.com/misc/contact/\" class=\"subscribe\">Click to send us an email</a>";
-        html += "</div>";
+        html += "	<div class=\"section\">";
+        html += "		<h4>Social Media</h4>";
+        html += "		<ul class=\"socialUl\">";
+        html += "            <li class=\"socialMedia\"><a href=\"https://www.facebook.com/MountTaborPresbyterianChurch/\"><img src=\"Images/SocialMedia/facebook.png\" /></a></li>";
+        html += "            <li class=\"socialMedia\"><a href=\"https://www.youtube.com/channel/UCCInd4l3fg1uMT3Izqu_wbw\"><img src=\"Images/SocialMedia/youtube.png\" /></a></li>";
+        html += "        </ul>";
+        html += "	</div>";
+        html += "	<div class=\"section contact\">";
+        html += "		<h4>Contact Us</h4>";
+        html += "		<p><span>Address:</span> 918 Mt. Tabor Road, New Albany, IN 47150 </p>";
+        html += "		<p><span>Phone:</span> (812)-944-7858 </p>";
+        html += "		<p><span>Email:</span> taborchurch@mw.twcbc.com </p>";
+        html += "	</div>";
+        html += "	<div class=\"section\">";
+        html += "		<h4>SEND US A MESSAGE</h4>";
+        html += "		<p> If you're having problems editing this website template, then don't hesitate to ask for help on the Forums. </p>";
+        html += "		<a href=\"http://www.freewebsitetemplates.com/misc/contact/\" class=\"subscribe\">Click to send us an email</a>";
+        html += "	</div>";
         html += "</div>";
         html += "<div id=\"footnote\">";
-        html += "<div class=\"clearfix\">";
-        html += "<div class=\"connect\">";
-        html += "<a href=\"http://freewebsitetemplates.com/go/facebook/\" class=\"facebook\"></a>";
-        html += "<a href=\"http://freewebsitetemplates.com/go/twitter/\" class=\"twitter\"></a>";
-        html += "<a href=\"http://freewebsitetemplates.com/go/googleplus/\" class=\"googleplus\"></a>";
-        html += "<a href=\"http://pinterest.com/fwtemplates/\" class=\"pinterest\"></a>";
+        html += "	<div class=\"clearfix\">";
+        html += "		<div class=\"connect\">";
+        html += "			<a href=\"http://freewebsitetemplates.com/go/facebook/\" class=\"facebook\"></a>";
+        html += "			<a href=\"http://freewebsitetemplates.com/go/twitter/\" class=\"twitter\"></a>";
+        html += "			<a href=\"http://freewebsitetemplates.com/go/googleplus/\" class=\"googleplus\"></a>";
+        html += "			<a href=\"http://pinterest.com/fwtemplates/\" class=\"pinterest\"></a>";
+        html += "		</div>";
+        html += "		<p> © Copyright Mt Tabor Church 2016. </p>";
+        html += "	</div>";
         html += "</div>";
-        html += "<p> © Copyright Mt Tabor Church 2016. </p>";
-        html += "</div>";
-        html += "</div>";
+
+        //////////////////////////////////////////////////////
+
         target.innerHTML = html;
     }
 
