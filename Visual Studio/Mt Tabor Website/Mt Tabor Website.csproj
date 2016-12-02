@@ -30,6 +30,7 @@
     <Content Include="Web Files\tabor.css" />
     <Content Include="Web Files\TaborHistory.html" />
     <Content Include="Web Files\Template.css" />
+    <Content Include="Web Files\OurMembers.html" />
     <Content Include="Web Files\WeeCare.html" />
     <Content Include="web.config" />
   </ItemGroup>
@@ -49,6 +50,7 @@
     <TypeScriptCompile Include="Web Files\Staff.ts" />
     <TypeScriptCompile Include="Web Files\TaborHistory.ts" />
     <TypeScriptCompile Include="Web Files\Pastor.ts" />
+    <TypeScriptCompile Include="Web Files\OurMembers.ts" />
     <TypeScriptCompile Include="Web Files\WeeCare.ts" />
   </ItemGroup>
   <ItemGroup>

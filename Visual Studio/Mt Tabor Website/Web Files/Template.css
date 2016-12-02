@@ -185,7 +185,7 @@ img {
 }
 /*------------ CONTENTS ------------*/
 #contents {
-	padding-bottom: 24px;
+	/*padding-bottom: 24px;*/
 }
 #contents > div.clearfix:first-child {
 	width: 940px;
