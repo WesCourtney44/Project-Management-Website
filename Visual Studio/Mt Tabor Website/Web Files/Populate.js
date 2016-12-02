@@ -72,6 +72,7 @@ var Link = (function () {
     Link.prototype.getLi = function () {
         var li = document.createElement('li');
         var a = document.createElement('a');
+        a.className = "NavBarLink";
         a.textContent = this.text;
         a.href = this.url;
         li.appendChild(a);

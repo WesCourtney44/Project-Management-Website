@@ -83,6 +83,7 @@ class Link {
     public getLi(): HTMLLIElement {
         let li: HTMLLIElement = document.createElement('li');
         let a: HTMLAnchorElement = document.createElement('a');
+        a.className = "NavBarLink";
         a.textContent = this.text;
         a.href = this.url;
         li.appendChild(a);
