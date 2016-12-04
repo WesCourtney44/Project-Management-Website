@@ -4,7 +4,7 @@
 */
 
 #header {
-	background: url("images/mtchurch.jpg") repeat-x left top;
+	background: url("images/mtchurch.jpg") no-repeat center center;
 	background-size: 100%;
 }
 
