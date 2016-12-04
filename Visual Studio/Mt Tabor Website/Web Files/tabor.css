@@ -91,5 +91,10 @@
 @media screen and (max-width: 400px) {
   .member-box div { margin: 0; }
   .member-box { padding: 0; }
-  
+
 }
+.story p {
+  font-family: 'Marck Script', cursive;
+  font-size: 1.5em;
+}
+
