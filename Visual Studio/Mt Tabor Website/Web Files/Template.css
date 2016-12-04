@@ -148,7 +148,7 @@ img {
 }
 .navigation li > a {
 	color: #ffffff;
-	font: bold 13px/24px Times, "Times New Roman", serif;
+	font-family: 'Montserrat', sans-serif;
 	text-decoration: none;
 	text-shadow: 1px 1px #000;
 	/*text-transform: uppercase;*/
