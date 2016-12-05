@@ -147,7 +147,7 @@ img {
 	position: relative;
 }
 .navigation li > a {
-	color: #ffff80;
+	color: #6699ff;
 	font-family: 'Montserrat', sans-serif;
 	text-decoration: none;
 	text-shadow: 2px 3px #000;
@@ -156,7 +156,7 @@ img {
     font-size: 24px;
 }
 .navigation li.active > a, .navigation li > a:hover {
-	color: #0492f7;
+	color: #ffff80;
 	text-decoration: underline;
 }
 .navigation li > div {
@@ -180,7 +180,7 @@ img {
 	text-decoration: underline;
 }
 .navigation li > div a:hover {
-	color: #fff;
+	color: #00ff00;
 	text-decoration: underline;
 }
 /*------------ CONTENTS ------------*/
@@ -215,9 +215,10 @@ p {
 }
 p a {
 	color: #626262;
+	text-decoration: none;
 }
 p a:hover {
-	color: #333333;
+	color: #ffff80;
 }
 /** Adbox **/
 #adbox {

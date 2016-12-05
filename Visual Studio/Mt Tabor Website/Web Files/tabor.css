@@ -101,6 +101,9 @@ div .grid-item {
 }
 .col-md-6 {
   flex-basis: 50%;
-
+}
+.family {
+  margin: 0;
+  padding-left: 7em;
 }
 
