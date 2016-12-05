@@ -8,7 +8,7 @@ body {
 img {
 	border: 0;
 }
-/** box-shadow **/
+/* box-shadow */
 .box {
 	background-color: #e7e7e7; /* Needed for IE */
 	display: inline-block;
@@ -93,7 +93,6 @@ img {
 	margin: 0 auto 6px;
 	padding: 8px 7px 0;
 	text-align: center;
-	font-family: 
 }
 .frame2 {
 	background-position: 0 -517px;
