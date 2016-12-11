@@ -65,25 +65,31 @@
     margin-top: 10px;
     padding-left: 0px;
 }
-.grid {
+/*.grid {
   max-width: 1200px;
   padding: .5vw;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-}
-.grid:after {
+}*/
+/*.grid:after {
   content: '';
   display: block;
   clear: both;
+}*/
+
+.grid-item img {
+  display: block;
+  max-width:530px;
+  max-height:395px;
+  width: auto;
+  height: auto;
 }
 
-div .grid-item {
-  width: 160px;
-  height: auto;
-  float: left;
-  border-color: hsla(0, 0%, 0%, 0.5);
-  border-radius: 5px; 
+#members .portfiolo {
+  display: flex;
+  flex-flow: wrap;
+  align-items: center;
 }
 /*.member-box div img {
   width: 100%;
