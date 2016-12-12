@@ -78,29 +78,45 @@
   clear: both;
 }*/
 
-.grid-item img {
-  display: block;
-  max-width:530px;
-  max-height:395px;
-  width: auto;
-  height: auto;
+div .members {
+  margin: 0;
+  background-color: #333;
+  padding: .5vw;
+  font-size: 0;
+  display: -ms-flexbox;
+  -ms-flex-wrap: wrap;
+  -ms-flex-direction: column;
+  -webkit-flex-flow: row wrap; 
+  flex-flow: row wrap; 
+  display: -webkit-box;
+  display: flex;
 }
 
-#members .portfiolo {
-  display: flex;
-  flex-flow: wrap;
-  align-items: center;
+div .portfolio {
+  -webkit-box-flex: auto;
+  -ms-flex: auto;
+  flex: auto row wrap;  
+  margin: .5vw; 
 }
+
+div .images img {
+  width: 100%; 
+  height: auto;
+  display: inline grid;
+  flex-flow: auto row wrap;
+}
+
+@media screen and (max-width: 800px) {
+  .member-box div { margin: 0; }
+  .member-box { padding: 0; }
+}
+
 /*.member-box div img {
   width: 100%;
   height: auto;
   flex-wrap: wrap;
-}
-@media screen and (max-width: 400px) {
-  .member-box div { margin: 0; }
-  .member-box { padding: 0; }
-
 }*/
+
 .story p {
   font-family: 'Marck Script', cursive;
   font-size: 1.5em;
